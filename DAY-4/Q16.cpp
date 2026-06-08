@@ -24,7 +24,8 @@ int main()
     do
     {
         double s = 0;
-        int x = 0;
+        int
+            x = 0;
         n = i;
 
         while (n > 0)
